@@ -1,0 +1,2 @@
+title=Frosted Glass 64x64
+about=Bitcookies (bitcookies.nousbuild.com)
