@@ -10,7 +10,7 @@
   </a>
   <img src="https://img.shields.io/badge/WinRAR-Theme-4184F4" />
   <a href="https://github.com/bitcookies/frosted-glass-winrar-theme//blob/master/LICENSE">
-  	<img alt="License" src="https://img.shields.io/github/license/bitcookies/frosted-glass-winrar-theme/.svg" />
+  	<img alt="License" src="https://img.shields.io/github/license/bitcookies/frosted-glass-winrar-theme.svg" />
   </a>
 </p>
 
