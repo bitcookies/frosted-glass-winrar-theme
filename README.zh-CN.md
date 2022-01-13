@@ -45,4 +45,4 @@
 
 ## 6. 许可
 
-使用 [MIT License](https://github.com/bitcookies/frosted-glass-winrar-theme/blob/master/LICENSE)
+使用 [GPL License](https://github.com/bitcookies/frosted-glass-winrar-theme/blob/master/LICENSE)

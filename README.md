@@ -46,4 +46,4 @@ This theme welcomes suggestions. You can make suggestions in [Issues](https://gi
 
 ## 6. License
 
-The theme is available under the [MIT license](https://github.com/bitcookies/frosted-glass-winrar-theme/blob/master/LICENSE)
+The theme is available under the [GPL License](https://github.com/bitcookies/frosted-glass-winrar-theme/blob/master/LICENSE)
