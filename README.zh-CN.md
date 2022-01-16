@@ -4,7 +4,9 @@
  <p align="center">Frosted Glass Style Theme of WinRAR</p>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/bitcookies/frosted-glass-winrar-theme?label=version" />
+  <a href="https://github.com/bitcookies/frosted-glass-winrar-theme/releases">
+  	<img src="https://img.shields.io/github/v/release/bitcookies/frosted-glass-winrar-theme?label=version" />
+  </a>
   <a href="https://github.com/bitcookies/frosted-glass-winrar-theme/issues">
   	<img alt="Issues" src="https://img.shields.io/github/issues/bitcookies/frosted-glass-winrar-theme?color=F48D73" />
   </a>
