@@ -13,8 +13,6 @@
   	<img alt="License" src="https://img.shields.io/github/license/bitcookies/frosted-glass-winrar-theme.svg" />
   </a>
 </p>
-
-
 <p align="center">
   <a href="README.zh-CN.md">简体中文</a> | <a href="README.md">English</a>
 </p>
