@@ -44,6 +44,10 @@ It is recommended to use a 48x size for monitors below 1080p and a 64x size for 
 
 This theme welcomes suggestions. You can make suggestions in [Issues](https://github.com/bitcookies/winrar-keygen/issues) 😄
 
-## 6. License
+## 6. Customization
+
+Sketch files are available on the [release](https://github.com/bitcookies/frosted-glass-winrar-theme/releases) page, please follow the GPL protocol.
+
+## 7. License
 
 The theme is available under the [GPL License](https://github.com/bitcookies/frosted-glass-winrar-theme/blob/master/LICENSE)

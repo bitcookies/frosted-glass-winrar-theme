@@ -45,6 +45,10 @@
 
 如果你对此主题有任何建议，可以在 [Issues](https://github.com/bitcookies/winrar-keygen/issues) 提出 😄
 
-## 6. 许可
+## 6. 修改
+
+Sketch 源文件可在 [release](https://github.com/bitcookies/frosted-glass-winrar-theme/releases) 页面获取，请遵循 GPL 协议。
+
+## 7. 许可
 
 使用 [GPL License](https://github.com/bitcookies/frosted-glass-winrar-theme/blob/master/LICENSE)
